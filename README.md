@@ -10,7 +10,7 @@
   ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-COBOL" height="30" width="40" src="https://cdn.discordapp.com/attachments/957441400935444550/1064990936607768668/file_type_cobol_icon_130684.png](https://cdn.discordapp.com/attachments/848296813739114527/1357373669638279300/cobol-language-svgrepo-com.png?ex=67eff83d&is=67eea6bd&hm=fa877cfc5003dd50c06be33a0f28c10b2a5bbf2efd277f321fa81903bcea002c&">
+  <img align="center" alt="Vini-COBOL" height="30" width="40" src="https://cdn.discordapp.com/attachments/848296813739114527/1357373669638279300/cobol-language-svgrepo-com.png?ex=67eff83d&is=67eea6bd&hm=fa877cfc5003dd50c06be33a0f28c10b2a5bbf2efd277f321fa81903bcea002c&">
   <img align="center" alt="Vini-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
