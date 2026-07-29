@@ -1,12 +1,7 @@
 ### Olá, Eu sou o Vinícius Alves Oliveira 👋
 
-- 🦖 Atualmente trabalho como Dev - Mainframe 
-- 🎓 Ensino Superior em Tecnologia como Analista de Sistemas
-- 🐤🐟 Tenho praticado bastante JavaScript e TypeScript
-- ⚾🎮🎵🎹
-- <div style="display: inline_block" > 📱📞 Contate me rapidamente aqui: &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5561993393314&text=Olá..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- 
+- 🦖 Dev - Mainframe 
+
   ##
   
   <div style="display: inline_block"><br>
