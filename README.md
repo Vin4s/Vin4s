@@ -1,4 +1,4 @@
-### Olá, Eu sou o Vinícius Alves Oliveira 👋
+### Olá, Eu sou o Vinícius Oliveira 👋
 
 - 🦖 Dev - Mainframe 
 
